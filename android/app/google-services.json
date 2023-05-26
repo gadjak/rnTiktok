@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "979764047445",
+    "project_id": "testapp-38035",
+    "storage_bucket": "testapp-38035.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979764047445:android:0278fb31f6dd76a5d5eedc",
+        "android_client_info": {
+          "package_name": "com.rntiktok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979764047445-igfqh4nngqntkpp2j8usgsjaadmumpgn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rntiktok",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "979764047445-tv6futbc484i122l6sg9i5u9hesgifuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC33uBlO1N_NvPByIkxcmW2nBuw3tdgFA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979764047445-8errt3doaetipd39mbvoiuo3lb1oonq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
